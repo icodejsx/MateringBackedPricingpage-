@@ -15,10 +15,10 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/about">About</RouterLink> -->
 
         <div>
-          <img alt="Vue logo" class="logo" src="@/assets/mastering.png" width="250" height="" />
+          <img alt="Vue logo" class="logo hidden lg:flex" src="@/assets/mastering.png" width="250" height="" />
         </div>
 
-        <a href="" class="text-2xl  font-bold">Log in</a>
+        <a href="" class="text-xl bg-[#17154B]   text-white px-8 py-2 rounded-2xl">Log in</a>
       </nav>
     </div>
   </header>
