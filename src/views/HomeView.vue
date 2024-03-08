@@ -8,7 +8,7 @@
       <h1 class=" font-bold  lg:text-5xl text-3xl text-center lg:w-[60rem] text-[#17154B]">
         Learn to code, grow your skills, and succeed in your tech interview
       </h1>
-      <p class="lg:text-2xl text-center">Lock in your special offer! Get a head start on your 2024 career goals</p>
+      <p class="lg:text-2xl text-center">Lock in your special offer! Get a head start on your 2024 career goals.</p>
       <div class="flex lg:flex-row flex-col gap-3 items-center bg-[#17154B] p-4 rounded-2xl text-white py-2  lg:px-10">
         <div class="flex items-center gap-2">
           <img alt="Vue logo" class="logo" src="@/assets/first.svg" width="20" height="" />
@@ -195,7 +195,8 @@
             <img alt="Vue logo" class="logo" src="@/assets/strike.svg" width="60" height="" />
             <div class="flex flex-col gap-1">
               <h1 class="font-bold text-2xl text-gray-800">Learn Faster</h1>
-              <p class="text-gray-700 text-2xl">All of our learning products are text-based. You get to learn at your own
+              <p class="text-gray-700 text-2xl">All of our learning products are text-based. You get to learn at your
+                own
                 pace. No pauses.</p>
             </div>
           </div>
@@ -204,7 +205,8 @@
             <img alt="Vue logo" class="logo" src="@/assets/strike.svg" width="60" height="" />
             <div class="flex flex-col gap-1">
               <h1 class="font-bold text-2xl text-gray-800">Personalize Your Learning</h1>
-              <p class="text-gray-700 text-2xl">Achieve your goals faster with a path designed just for you. Personalized
+              <p class="text-gray-700 text-2xl">Achieve your goals faster with a path designed just for you.
+                Personalized
                 Paths are customized and focused on your individual learning needs and career goals.</p>
             </div>
           </div>
