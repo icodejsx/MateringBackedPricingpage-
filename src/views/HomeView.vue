@@ -4,22 +4,6 @@
 
 <template>
   <main class="flex flex-col gap-20 items-center justify-center lg:pt-11 bg-[#e2e0e0]">
-    <div class=" flex flex-col items-center gap-4     ">
-      <h1 class=" font-bold  lg:text-5xl text-3xl text-center lg:w-[60rem] text-[#17154B]">
-        Learn to code, grow your skills, and succeed in your tech interview
-      </h1>
-      <p class="lg:text-2xl text-center">Lock in your special offer! Get a head start on your 2024 career goals.</p>
-      <div class="flex lg:flex-row flex-col gap-3 items-center bg-[#17154B] p-4 rounded-2xl text-white py-2  lg:px-10">
-        <div class="flex items-center gap-2">
-          <img alt="Vue logo" class="logo" src="@/assets/first.svg" width="20" height="" />
-          <p class="bg-[#17154B] text-sm ">Over 1,080 Courses, Projects & CloudLabs </p>
-        </div>
-        <div class="flex items-center gap-2 text-sm">
-          <img alt="Vue logo" class="logo" src="@/assets/user.svg" width="20" height="" />
-          <p class="bg-[#17154B] ">2.2 Million Learners</p>
-        </div>
-      </div>
-    </div>
 
     <div class="flex flex-col gap-16 items-center w-full p-4 ">
       <!-- <h1 class="text-4xl font-bold "> Our Pricing </h1> -->
