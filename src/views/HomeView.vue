@@ -26,7 +26,8 @@
 
       <h1 class="text-4xl lg:text-5xl  font-bold text-[#17154B] -">Our Pricing </h1>
 
-      <section class=" lg:grid  grid-cols-3 flex flex-col  w-full text-white gap-5  lg:px-16">
+      <section
+        class=" lg:grid  grid-cols-3 flex flex-col justify-center items-center  w-full text-white gap-5  lg:px-16">
         <div class="flex flex-col bg-[#17154B] rounded-xl ">
           <div class="col-span-1 flex flex-col px-9 py-10 gap-5  items-center  w-full">
             <h1 class="font-bold">Standard</h1>
@@ -72,6 +73,8 @@
             Gift a Subsription
           </button>
         </div>
+
+
 
         <div class="flex flex-col bg-[#17154B] rounded-xl ">
           <div class="col-span-1 flex flex-col px-9 py-10 gap-5  items-center  w-full">
